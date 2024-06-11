@@ -1,0 +1,10 @@
+.container > div {
+  display: flex;
+}
+
+div > .innerDiv {
+  border: 1.5px solid black;
+  margin: 2px;
+  width: 100px;
+  height: 100px;
+}
