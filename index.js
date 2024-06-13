@@ -1,3 +1,5 @@
+import setHexColor from "./utils/colors";
+
 const container = document.querySelector(".container");
 const btn = document.querySelector("button");
 
