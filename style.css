@@ -24,6 +24,10 @@ button {
   color: #fefae0;
 }
 
+button:hover {
+  background-color: #dda15e;
+}
+
 .container {
   margin-top: 8px;
   border: 0.5px solid grey;
